@@ -18,3 +18,5 @@ oai:www.wbc.poznan.pl:46605;fredry;16.9177031;52.4096504;first_page;0022.djvu
 * original_filename - nazwa pliku
 
 Znalezione nazwy to wynik działania skryptu, może zawierać błędy.
+
+Plik streets_and_metadata.csv zawiera dane rozszerzone o informacje z metadanych danego numeru. Dzięki temu można sobie nieco pofiltrować i poszukać co, gdzie, kiedy.
