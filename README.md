@@ -13,7 +13,7 @@ oai:www.wbc.poznan.pl:46605;fredry;16.9177031;52.4096504;first_page;0022.djvu
 
 * oai_id - identyfikator OAI wskazujący na publikacje w WBC
 * street_name - nazwa ulicy 
-* longitude + latitude - współrzędne ulicy
+* longitude + latitude - współrzędne ulicy z google maps
 * order_of_page - czy strona na której znaleziono nazwę ulicy to pierwsza, ostatnia czy inna strona
 * original_filename - nazwa pliku
 
